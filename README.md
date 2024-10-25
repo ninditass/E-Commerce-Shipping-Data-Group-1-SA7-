@@ -41,5 +41,3 @@ Proyek ini dilakukan dalam **Jupyter Notebook** dan mengikuti tahapan sebagai be
 Dataset ini diambil dari [Kaggle](https://www.kaggle.com/datasets/prachi13/customer-analytics/data).
 
 ---
-
-Kami berharap repository ini dapat membantu Anda memahami lebih dalam mengenai analisis data e-commerce dan penerapan teknik pembelajaran mesin. Jangan ragu untuk memberikan saran atau kontribusi!
